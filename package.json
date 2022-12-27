@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "@railway/cli": "^2.0.13",
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "snoowrap": "^1.23.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.17",
